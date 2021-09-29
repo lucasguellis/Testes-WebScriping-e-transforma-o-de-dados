@@ -1,4 +1,4 @@
-# Desafios WebScriping
+# Desafios WebScraping
 
 Desafio com o objetivo de baixar o relatório TISS mais recente do site da ANS, em PDF, e extrair dele 3 tabelas em CSV, zipando os três arquivos em um só.
 
